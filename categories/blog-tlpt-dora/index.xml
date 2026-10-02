@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blog, TLPT, DORA on Z-Labs</title>
+		<link>/categories/blog-tlpt-dora/</link>
+		<description>Recent content in Blog, TLPT, DORA on Z-Labs</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 13 May 2024 17:17:36 +0800</lastBuildDate>
+		
+			<atom:link href="/categories/blog-tlpt-dora/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>[PL] TIBER-EU i DORA szansą na budowanie realnej cyberodporności w sektorze finansowym</title>
+				<link>/posts/tiber-eu-dora-cyberodpornosc/</link>
+				<pubDate>Mon, 13 May 2024 17:17:36 +0800</pubDate>
+				<guid>/posts/tiber-eu-dora-cyberodpornosc/</guid>
+				<description>W tym roku czeka nas również aktualizacja KSC o unijną dyrektywę NIS 2. Odpowiedni projekt ustawy trafił ostatnio do konsultacji publicznych. W naszej ocenie za jeszcze istotniejsze należy uznać rozporządzenie Parlamentu Europejskiego z dnia 14 Grudnia 2022 roku o akronimie DORA (ang. Digital Operational Resilience Act), a w szczególności obszar rozporządzenia dotyczący testowania operacyjnej odporności cyfrowej (ang. Digital operational resilience testing).</description>
+			</item>
+			<item>
+				<title>[PL] TIBER-EU i DORA szansą na budowanie realnej cyberodporności w sektorze finansowym</title>
+				<link>/posts/tiber-eu-dora/</link>
+				<pubDate>Mon, 13 May 2024 17:17:36 +0800</pubDate>
+				<guid>/posts/tiber-eu-dora/</guid>
+				<description>W tym roku czeka nas również aktualizacja KSC o unijną dyrektywę NIS 2. Odpowiedni projekt ustawy trafił ostatnio do konsultacji publicznych. W naszej ocenie za jeszcze istotniejsze należy uznać rozporządzenie Parlamentu Europejskiego z dnia 14 Grudnia 2022 roku o akronimie DORA (ang. Digital Operational Resilience Act), a w szczególności obszar rozporządzenia dotyczący testowania operacyjnej odporności cyfrowej (ang. Digital operational resilience testing).</description>
+			</item>
+	</channel>
+</rss>
