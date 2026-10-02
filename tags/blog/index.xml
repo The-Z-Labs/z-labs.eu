@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blog on Z-Labs</title>
+		<link>https://the-z-labs.github.io/tags/blog/</link>
+		<description>Recent content in Blog on Z-Labs</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 21 May 2025 11:10:36 +0800</lastBuildDate>
+		
+			<atom:link href="https://the-z-labs.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Taking Cobalt Strike&#39;s BOFs to the next level</title>
+				<link>https://the-z-labs.github.io/posts/blog-post-1/</link>
+				<pubDate>Wed, 21 May 2025 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/posts/blog-post-1/</guid>
+				<description>Initially started as an open-source library for launching BOFs programs on Windows and Linux systems outside of Cobalt Strike environment, it soon became the go-to open adversary simulations toolkit for Windows (x86 &amp;amp; x86_64) and Linux (x86, x86_64, ARMv6+, AArch64) platforms.</description>
+			</item>
+			<item>
+				<title>Blog Post 2</title>
+				<link>https://the-z-labs.github.io/posts/blog-post-2/</link>
+				<pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/posts/blog-post-2/</guid>
+				<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+			</item>
+			<item>
+				<title>Blog Post 4</title>
+				<link>https://the-z-labs.github.io/posts/blog-post-4/</link>
+				<pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/posts/blog-post-4/</guid>
+				<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+			</item>
+			<item>
+				<title>Blog Post 5</title>
+				<link>https://the-z-labs.github.io/posts/blog-post-5/</link>
+				<pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/posts/blog-post-5/</guid>
+				<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+			</item>
+			<item>
+				<title>Blog Post 6</title>
+				<link>https://the-z-labs.github.io/posts/blog-post-6/</link>
+				<pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/posts/blog-post-6/</guid>
+				<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+			</item>
+			<item>
+				<title>Blog Post 7</title>
+				<link>https://the-z-labs.github.io/posts/blog-post-7/</link>
+				<pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/posts/blog-post-7/</guid>
+				<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+			</item>
+			<item>
+				<title>Meet the boss</title>
+				<link>https://the-z-labs.github.io/posts/blog-post-3/</link>
+				<pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/posts/blog-post-3/</guid>
+				<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+			</item>
+	</channel>
+</rss>

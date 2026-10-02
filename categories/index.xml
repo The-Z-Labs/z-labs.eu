@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Categories on Z-Labs</title>
+		<link>https://the-z-labs.github.io/categories/</link>
+		<description>Recent content in Categories on Z-Labs</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 21 May 2025 11:10:36 +0800</lastBuildDate>
+		
+			<atom:link href="https://the-z-labs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Blog</title>
+				<link>https://the-z-labs.github.io/categories/blog/</link>
+				<pubDate>Wed, 21 May 2025 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/categories/blog/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>News</title>
+				<link>https://the-z-labs.github.io/categories/news/</link>
+				<pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/categories/news/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

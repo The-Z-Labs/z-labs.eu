@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>News on Z-Labs</title>
+		<link>https://the-z-labs.github.io/categories/news/</link>
+		<description>Recent content in News on Z-Labs</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 18 May 2022 11:10:36 +0800</lastBuildDate>
+		
+			<atom:link href="https://the-z-labs.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>News from the lab #1: release of &#39;whereami&#39;, &#39;zcat&#39;, &#39;grep&#39; and &#39;find&#39; BOFs</title>
+				<link>https://the-z-labs.github.io/posts/news-post-1/</link>
+				<pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/posts/news-post-1/</guid>
+				<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+			</item>
+			<item>
+				<title>New release of linu-exploit-suggester tool</title>
+				<link>https://the-z-labs.github.io/posts/news-post-2/</link>
+				<pubDate>Mon, 18 Apr 2022 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/posts/news-post-2/</guid>
+				<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+			</item>
+			<item>
+				<title>News Post 4</title>
+				<link>https://the-z-labs.github.io/posts/news-post-4/</link>
+				<pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/posts/news-post-4/</guid>
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>News Post 5</title>
+				<link>https://the-z-labs.github.io/posts/news-post-5/</link>
+				<pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/posts/news-post-5/</guid>
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>News Post 6</title>
+				<link>https://the-z-labs.github.io/posts/news-post-6/</link>
+				<pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/posts/news-post-6/</guid>
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>News Post 7</title>
+				<link>https://the-z-labs.github.io/posts/news-post-7/</link>
+				<pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/posts/news-post-7/</guid>
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>News Post 3</title>
+				<link>https://the-z-labs.github.io/posts/news-post-3/</link>
+				<pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+				<guid>https://the-z-labs.github.io/posts/news-post-3/</guid>
+				<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+			</item>
+	</channel>
+</rss>
